@@ -6,4 +6,3 @@ WebGL accelerated Game of Life for JS. Try it out [here](https://dirktoewe.githu
   * Use right-click to either toggle cells or to insert patterns
   * Insertible patterns can be selected from the `<Toggle Cell>` dropdown
   * The `16 ms` dropdown allow to adjust the minimum delay between simulation steps. The higher the delay the slower the simulation.
-  * 
